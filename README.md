@@ -1,2 +1,2 @@
-# Pr-ticas-de-python
+# Praticas-de-python
 meu treino para aprender python
